@@ -286,3 +286,9 @@ com.nothing
 ###################################################
 # IFAA Manager used for Alipay and/or WeChat payment
 org\.ifaa\.android\.manager.*
+
+###################################################
+# LineageOS
+vendor\.lineage\..*
+vendor\.lineage\.health.*
+vendor\.lineage\.touch.*
